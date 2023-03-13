@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Documento HTML mínimo</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>Listas em html</h1>
+        <h2>Não ordenadas</h2>
+    <ul>
+    	<li>Carro</li>
+    	<li>Cores</li>
+    	<li>Países</li>
+    	<li>Frutas</li>
+</ul>
+
+        
+        
+        <h1>Ordenada</h2>
+     <ol>
+        <li>Ayrton Senna</li>
+        <li>Juan Manuel Fangio</li>
+        <li>Michael Schumacher</li>
+        <li>Alain Prost</li>
+        <li>Lewis Hamilton</li>
+     </ol>
+
+	   <h1>Aninhadas</h1>
+<ul>
+    <li>Cores 
+          <ul>
+                 <li>Vermelho</li>
+                 <li>Azul
+			<ul>
+			  <li>claro</li>
+			  <li>escuro</li>
+</li>
+          </ul>
+   </li>
+   <li>Carros
+          <ul>
+                 <li>Ferrari</li>
+                 <li>Tesla</li>
+          </ul>
+   </li>
+</ul>
+
+	<h1> Definições</h1>
+<dl>
+    <dt>Café Latte</dt>
+    <dd> Café com leite</dd>
+    <dt>Cappuccino Italiano</dt>
+    <dd> 1/3 café, leite  e de espuma de leite</dd>
+</dl>
+
+<body>
+
