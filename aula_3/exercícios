@@ -1,0 +1,24 @@
+!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Documento HTML mínimo</title>
+        <meta charset="utf-8">
+ <h1>EXERCÍCIOS</h1>
+
+	<h2>01. Crie uma página HTML que contenha uma lista compras.</h2>
+     <ul>
+    <li>leite</li>
+    <li>arroz</li>
+    <li>sabão em pó</li>
+    <li>frutas</li>
+</ul>
+ 
+	<h2>02. Crie uma página HTML que contenha os grupos da Copa do Mundo de 2022 com os seus respectivos países.</h2>
+	
+	<ul>
+		<li>Grupo A</li>
+		   <ul>
+		 <li>qatar<img src="https://static.significados.com.br/flags/qa.svg" width="30" height="20"></li> 
+		<li>equador <img src="https://static.significados.com.br/flags/ec.svg" width="30" height"20"></li>
+
+</ul>
