@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Documento HTML mínimo</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+      
+      <h2> 01. Crie uma página HTML que contenha uma lista de tarefas.  Nesta lista de tarefas, os itens mais importantes devem estar  destacados e os itens finalizados devem estar riscados.
+  <p> levar o pet no 
+      <mark> veterinario</mark>
+  </p>
+  <p> <s>ir para a academia</s>
+  </p>
+  
+  <h2> 02. Crie uma página HTML que contenha diversos parágrafos.  Para cada parágrafo adicione um número indicando um nota de rodapé. Por exemplo1.  No final da página, separado por uma linha horizontal, apresente as notas de rodapés. Dica: Utilize um gerador de textos lorem ipsum. 04. Crie uma página HTML que contenha um ou mais parágrafos. A primeira palavra do parágrafo deve estar destacada em negrito. 
+   
+
+<p><sub>1</sub><mark><b>Eles</b></mark> devem ser repelidos, mas no repúdio das coisas, não seguirei o mais áspero ou a suavidade do presente! É a distinção de rejeitar o que não está cego pelo prazer, nem todos fogem para fazer menos dores, aqueles que desejam fazer algo que lhes deve dor.
+</p>
+<p>
+<sub>2</sub><mark><b>Aqui</b></mark>, portanto, o prazer, que é a coisa mais importante, é mantido para nós, mas nada escapa, e não deixe o prazer escapar deles no tempo de angústia. É a vontade da vida que o prazer dos acusadores seja o prazer, e os mais dignos também nascem do prazer.
+</p>
+
+<hr>
+<p>1. esse texto foi gerado por um Lorem Ipsum</p>
+<p>2. curti esse paragrafo</p>
+
+<h2>03. Crie uma página HTML que contenha um parágrafo explicando o significado de uma palavra ou expressão em um idioma estrangeiro (inglês, alemão, frânces, etc). As palavras estrangeiras devem estar destacadas em itálico. 
+
+  <p><em>marketplace</em> modelos de negócio mais rentáveis do mercado. Esse formato traz sucesso para quem é vendedor, e, principalmente, para quem decide montar o seu próprio <em>marketplace</em>. As <em>startups</em> de maior sucesso na atualidade, como Uber, Apple e Airbnb, utilizam esse tipo de plataforma. 
+  </p>
