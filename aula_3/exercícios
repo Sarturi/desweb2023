@@ -16,9 +16,53 @@
 	<h2>02. Crie uma página HTML que contenha os grupos da Copa do Mundo de 2022 com os seus respectivos países.</h2>
 	
 	<ul>
-		<li>Grupo A</li>
+		<li>Grupo A
 		   <ul>
 		 <li>qatar<img src="https://static.significados.com.br/flags/qa.svg" width="30" height="20"></li> 
 		<li>equador <img src="https://static.significados.com.br/flags/ec.svg" width="30" height"20"></li>
+		<li>holanda <img src="https://static.significados.com.br/flags/nl.svg" width="30" height"20"></li>
+		<li>senegal <img src="https://static.significados.com.br/flags/sn.svg" width="30" height"20"></li>
 
 </ul>
+</li>
+	
+
+		<li>Grupo B
+		   <ul>
+		 <li> Estados Unidos <img src="https://static.significados.com.br/flags/us.svg" width="30" height="20"></li> 
+		<li>Inglaterra <img src="https://static.significados.com.br/foto/inglaterra.jpg" width="30" height"20"></li>
+		<li>Irã <img src="https://static.significados.com.br/flags/ir.svg" width="30" height"20"></li>
+		<li>País de Gales (Não achei foto)</li>
+
+</ul>
+</li>
+
+	<h2>03. Crie uma página HTML que contenha ordenado o top 10 países  mais visitados no mundo.
+
+		<ol>
+			<li>França</li>
+			<li>Espanha</li>
+			<li>Estados Unidos</li>
+			<li>China</li>
+			<li>Itália</li>
+			<li>Turquia</li>
+			<li>México</li>
+			<li>Alemanha</li>
+			<li>Tailândia</li>
+			<li>Inglaterra</li>
+		</ol>
+
+	<h2>04. Crie uma página HTML que contenha ordenado os 8 países com o piores índice de Desenvolvimento Humano (IDH)
+
+
+		<ol reversed>
+			<li>Guiné (IDH 0,465)</li>
+			<li>Yemen (IDH 0,455)(</li>
+			<li>Burkina Faso (IDH 0,449)(</li>
+			<li>Burundi (IDH 0,426</li>
+			<li>República Centro-Africana (IDH 0,404)</li>
+			<li>Níger (IDH 0,400)(</li>
+			<li>Chade (IDH 0,394)</li>
+			<li>Sudão do Sul (IDH 0,385)</li>
+		</ol>
+
