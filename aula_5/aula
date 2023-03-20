@@ -1,0 +1,62 @@
+<html>
+	<head>
+		<meta charset+"utf-8">
+			<title>Links  e Imagens</title>
+	</head>
+<body>
+	<h1>Links e Imagens</h1>
+	<img src="imagem2.jpg" height= "200", width= "150"> 
+	
+	<img src="https://images.unsplash.com/photo-1678938940744-0fc1c7953b2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" height= "200", width= "150"> 
+</body>
+
+
+<h1> links</h1>
+<a href="https://www.google.com"> link para o Google.
+</a>
+
+<h1> email</h1>
+
+<a href="mailto:guilherme.sarturi20@gmail.com"> me envie um email.</a>
+
+<h2> rolagem</h2>
+
+<a href="#secao1"> ir para seção 1</a>
+<a href="#secao2"> ir para seção 2</a>
+<a href="#secao3"> ir para seção 3</a>
+<a href="#secao4"> ir para seção 4</a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h3 id="secao1">seção 1</h3><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h3 id="secao2">seção 2</h3><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h3 id="secao3">seção 3</h3><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h3 id="secao4">seção 4</h3>
+
+</html>
