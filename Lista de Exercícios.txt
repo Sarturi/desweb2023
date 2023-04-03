@@ -1,0 +1,88 @@
+Lista de Exercícios
+
+Instruções
+Livro base Fundamentos de HTML5 e documentação oficial do HTML disponível em https://developer.mozilla.org/pt-BR/docs/Web/HTML. 
+
+Exercício 1. Defina HTML?
+Linguagem de marcação de texto.
+Exercício 2. Defina o que são hipertextos.
+São links que conectam páginas da web entre si.
+Exercício 3. Defina o que são hiperligações.
+São endereços web os quais se ligam a sites 
+Exercício 4. Defina o que são hipermídias.
+Produto multimidia ligado por hiperlinks
+Exercício 5. Defina o que são linguagens de marcações.
+Conjunto de marcadores para textos por exemplo o <i> itálico</i>
+Exercício 6.  Defina o que são os browers
+São os navegadores web como o chrome e operagx
+Exercício 7.  Defina o conceito de renderização.
+É o processamento para a combinação de material bruto.
+Exercício 8.  Qual é o objetivo do HTML?
+Permitir que um navegador leia e traduza marcações de texto.
+Exercício 9.  Qual é o objetivo do CSS?
+É fazer a estilização da página
+Exercício 10.  Qual é a tag raíz de um documento em HTML?
+
+Exercício 11.  Qual é o propósito da tag HEAD?
+Fornecer metadados como a aceitação de caracteres especiais como o utf-8 e definir linguagem como lang= pt-br
+
+Exercício 12.  Qual é o propósito da tag BODY?
+São os dados visíveis pelo usuário como tabelas entre outros
+Exercício 13.  Qual é a tag que representa um comentário em HTML?
+<!- -isso é um comentário- - >
+Exercício 14.  Qual é a tag que representa um parágrafo?
+<p>
+Exercício 15.  Qual é a tag que representa o metadado título de um documento em HTML?
+<doctype>
+Exercício 16.  Qual é a tag que configura o documento HTML para lidar com caracteres especiais?
+Utf-8
+Exercício 17.  Qual é a tag que representa um título/seção em um documento HTML? Quantos níveis possuem?
+
+Exercício 18.  Qual é a tag que representa uma lista não ordenada?
+
+Exercício 19.  Qual é a tag que representa uma lista ordenada?
+
+Exercício 20.  Qual é a propriedade na tag que representa uma lista ordenada reversa??
+
+Exercício 21.  Qual é a tag que representa uma lista de descrições?
+
+Exercício 22.  Qual é a propriedade na tag que configura uma lista ordenada iniciar em um determinado valor?
+
+Exercício 23.  Qual é a tag que representa um texto em negrito?
+<strong>
+Exercício 24.  Qual é a tag que representa um texto em itálico?
+<i>
+Exercício 25.  Qual é a tag que representa um texto destacado?
+<mark>
+
+Exercício 26.  Qual é a tag que representa um texto riscado?
+<s>
+Exercício 27.  Qual é a tag que representa um texto subescrito e sobrescrito?
+<sup>  <sub>
+Exercício 28.  Qual é a tag que representa um texto de rodapé?
+<footer>
+Exercício 29.  Qual é a tag que representa um pulo de linha?
+<br>
+Exercício 30.  Qual é a tag que representa uma linha horizontal?
+<hr>
+Exercício 31.  Qual é a tag que representa uma imagem?
+<img src=””>
+Exercício 32.  Qual é a tag que representa um link?
+<a href>
+Exercício 33.  Qual é a propriedade da tag que define a imagem a ser exibida?
+<img src>
+Exercício 34.  Como é definido o tamanho de uma imagem?
+Definindo a height e a width sendo sua unidade o px
+Exercício 35.  Como é definido o endereço para qual um link direciona?
+
+Exercício 36.  Qual é a tag que representa ua tabela?
+<table>
+Exercício 37.  Qual é a tag que representa uma linha em uma tabela?
+
+Exercício 38.  Qual é a tag que representa uma célula de dados em uma tabela?
+
+Exercício 39.  Qual é a tag que representa uma célula de cabeçalho em uma tabela?
+
+Exercício 40.  Qual é a propriedade que define que uma célula será mesclada em linha?
+
+Exercício 41.  Qual é a propriedade que define que uma célula será mesclada em coluna?
