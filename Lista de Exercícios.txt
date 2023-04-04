@@ -22,7 +22,7 @@ Permitir que um navegador leia e traduza marcações de texto.
 Exercício 9.  Qual é o objetivo do CSS?
 É fazer a estilização da página
 Exercício 10.  Qual é a tag raíz de um documento em HTML?
-
+<html>
 Exercício 11.  Qual é o propósito da tag HEAD?
 Fornecer metadados como a aceitação de caracteres especiais como o utf-8 e definir linguagem como lang= pt-br
 
@@ -33,11 +33,11 @@ Exercício 13.  Qual é a tag que representa um comentário em HTML?
 Exercício 14.  Qual é a tag que representa um parágrafo?
 <p>
 Exercício 15.  Qual é a tag que representa o metadado título de um documento em HTML?
-<doctype>
+<title>
 Exercício 16.  Qual é a tag que configura o documento HTML para lidar com caracteres especiais?
 Utf-8
 Exercício 17.  Qual é a tag que representa um título/seção em um documento HTML? Quantos níveis possuem?
-
+<h> possuem 6 niveis
 Exercício 18.  Qual é a tag que representa uma lista não ordenada?
 
 Exercício 19.  Qual é a tag que representa uma lista ordenada?
