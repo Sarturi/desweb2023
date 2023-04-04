@@ -39,15 +39,15 @@ Utf-8
 Exercício 17.  Qual é a tag que representa um título/seção em um documento HTML? Quantos níveis possuem?
 <h> possuem 6 niveis
 Exercício 18.  Qual é a tag que representa uma lista não ordenada?
-
+<ul> <li>
 Exercício 19.  Qual é a tag que representa uma lista ordenada?
-
+<ol>
 Exercício 20.  Qual é a propriedade na tag que representa uma lista ordenada reversa??
-
+<ol reversed>
 Exercício 21.  Qual é a tag que representa uma lista de descrições?
-
+<ol> <dl> <dd>
 Exercício 22.  Qual é a propriedade na tag que configura uma lista ordenada iniciar em um determinado valor?
-
+start= "7"
 Exercício 23.  Qual é a tag que representa um texto em negrito?
 <strong>
 Exercício 24.  Qual é a tag que representa um texto em itálico?
@@ -66,23 +66,24 @@ Exercício 29.  Qual é a tag que representa um pulo de linha?
 Exercício 30.  Qual é a tag que representa uma linha horizontal?
 <hr>
 Exercício 31.  Qual é a tag que representa uma imagem?
-<img src=””>
+<img>
 Exercício 32.  Qual é a tag que representa um link?
-<a href>
+<a>
 Exercício 33.  Qual é a propriedade da tag que define a imagem a ser exibida?
-<img src>
+<img src= "">
 Exercício 34.  Como é definido o tamanho de uma imagem?
 Definindo a height e a width sendo sua unidade o px
 Exercício 35.  Como é definido o endereço para qual um link direciona?
-
+<a href="">
 Exercício 36.  Qual é a tag que representa ua tabela?
 <table>
 Exercício 37.  Qual é a tag que representa uma linha em uma tabela?
-
+tr
 Exercício 38.  Qual é a tag que representa uma célula de dados em uma tabela?
-
+td
 Exercício 39.  Qual é a tag que representa uma célula de cabeçalho em uma tabela?
-
+th
 Exercício 40.  Qual é a propriedade que define que uma célula será mesclada em linha?
-
+colspan= "2"
 Exercício 41.  Qual é a propriedade que define que uma célula será mesclada em coluna?
+rowspan= "2"
