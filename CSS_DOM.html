@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+    <html lang="pt-br">
+        <head>
+            <meta charset="utf-8">
+            <title>DOM e Seletores</title>
+            <style>
+                footer > p{
+                    background: red;
+                }
+                div> div> p {
+                    background: green;
+                }
+            </style>
+    </head>
+    <body>
+        <div>
+            <h1>
+                1
+            </h1>
+            <p>
+                2
+            </p>
+        </div>
+        <div>
+            <div>
+                <h1>3</h1>
+                <p>4</p>
+                <span>5</span>
+            </div>
+            <div>
+                <span>6</span>
+                <p>7</p>
+            </div>
+            <div>
+                <p>8</p>
+                <span>9</span>
+            </div>
+        </div>
+        <div>
+            <footer>
+                <p>10</p>
+            </footer>
+        </div>
+    </body>
